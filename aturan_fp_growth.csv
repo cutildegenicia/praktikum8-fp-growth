@@ -1,0 +1,5 @@
+Antecedent,Consequent,Support,Confidence
+gender=Laki-laki,status=Terlambat,0.25513971937013125,0.5513513513513514
+gender=Perempuan,status=Terlambat,0.2786049503299426,0.5490094826776828
+status=Tepat Waktu,gender=Perempuan,0.22886342520904304,0.5080112104066417
+status=Terlambat,gender=Perempuan,0.2786049503299426,0.5070233243735368
